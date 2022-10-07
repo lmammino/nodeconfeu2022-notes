@@ -2,6 +2,13 @@
 
 My notes from NodeConfEU 2022
 
+## My Twitter Summaries:
+
+- [Day 1](https://twitter.com/loige/status/1577203372737929218)
+- [Day 2](https://twitter.com/loige/status/1577568572603305986)
+- [Day 3](https://twitter.com/loige/status/1577736153184321553)
+- [Final summary](https://twitter.com/loige/status/1578043892947099656)
+
 # day 1
 
 ## Liz Parody - new features in Node.js
